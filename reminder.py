@@ -10,7 +10,7 @@ username = str(getpass.getuser())
 ai = pyttsx3.init()
 ai.say('Hello'+username+'! welcomeback!')
 ai.runAndWait()
-time.sleep(5)
+time.sleep(1600)
 
 
 def warn0():
