@@ -1,5 +1,7 @@
+#Script by Hovered Cube
+#tutorial video : https://youtu.be/LmyF0RUXMzU
+
 import pyttsx3
-import time
 import os
 import pyautogui
 import random as rn
@@ -68,17 +70,17 @@ def warner(warningNumber):
     if warningNumber == 4:
         ai.runAndWait()
         ai.say(warn3())
-        pyautogui.hotkey('winleft', 'l')
+        pyautogui.hotkey('winleft', 'm')
 
     if warningNumber == 5:
         ai.runAndWait()
         ai.say(warn3())
-        pyautogui.hotkey('winleft', 'l')
+        pyautogui.hotkey('winleft', 'm')
 
     if warningNumber == 6:
         ai.runAndWait()
         ai.say(warn3())
-        pyautogui.hotkey('win', 'l')
+        pyautogui.hotkey('win', 'm')
 
     if warningNumber == 7:
         pyautogui.alert("your pc will be shutdown in 6 seconds")
@@ -96,5 +98,5 @@ while True:
             warningNumber += 1
             warner(warningNumber)
         secondsPassedWithoutMovement += 1
-        if secondsPassedWithoutMovement == 300:  # => 300min
+        if secondsPassedWithoutMovement == 300:  # => 5min
             break
