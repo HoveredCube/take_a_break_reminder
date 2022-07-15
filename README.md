@@ -7,3 +7,4 @@ so after warning you 5 times, and asking you more harsh each time, it will compl
 
 Detailed tutorial and Explanation in my Youtube Channel: 
 https://www.youtube.com/channel/UCNfd8EIm3dOUuzuf-oNi7uA?sub_confirmation=1
+Tutorial/full_explanation Video : https://youtu.be/LmyF0RUXMzU
