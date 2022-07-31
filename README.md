@@ -5,6 +5,3 @@ then after each 30 minutes it'll get activated and first kindly asks you to take
 if you move you cursor, it will detect the position change of you mouse and recognize that you're still using your pc and warns you and minimize all of you windows.
 so after warning you 5 times, and asking you more harsh each time, it will completly shut down the pc as a Punishment
 
-Detailed tutorial and Explanation in my Youtube Channel: 
-https://www.youtube.com/channel/UCNfd8EIm3dOUuzuf-oNi7uA?sub_confirmation=1
-Tutorial/full_explanation Video : https://youtu.be/LmyF0RUXMzU
