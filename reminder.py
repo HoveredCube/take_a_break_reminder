@@ -1,5 +1,5 @@
 #Script by Hovered Cube
-#tutorial video : https://youtu.be/LmyF0RUXMzU
+
 
 import pyttsx3
 import os
